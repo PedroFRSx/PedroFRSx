@@ -1,16 +1,45 @@
-## Hi there 👋
+# Olá, sou o Pedro Ferraz! 👋
 
-<!--
-**PedroFRSx/PedroFRSx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo(a) ao meu GitHub.
+Sou um Desenvolvedor/Analista em formação.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sobre Mim ✨
+
+* 🔭 Atualmente estou trabalhando como Analista.
+* 🌱 Estou aprofundando meus conhecimentos em Desenvolvimento e Dados.
+* 🎓 Cursando Sistemas de Informação no Centro Universitário Uniacademia.
+
+---
+
+### Minhas Habilidades 🛠️
+
+Aqui estão as tecnologias com as quais tenho me aprimorado:
+
+**Linguagens:**
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Frameworks/Bibliotecas:**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Banco de Dados:**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Ferramentas:**
+![Power Bi](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### Contato 📬
+
+* **LinkedIn:** https://www.instagram.com/pedrofsx/
+* **Instagram:** https://www.instagram.com/pedrofsx/
+* **Email:** pedroferraz108@gmail.com
